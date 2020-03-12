@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Leaf</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="list">LIST</string>
+    <string name="add_list">ADD</string>
+    <string name="refresh">Refresh</string>
+    <string name="registration">Registration</string>
+    <string name="enter">Enter</string>
+    <string name="preference_file_key">mykey</string>
+    <string name="saved_email_key">email_key</string>
+    <string name="saved_password_key">password_key</string>
+    <string name="enter_e_mail">Enter e-mail</string>
+    <string name="add">ADD</string>
+    <string name="none">None</string>
+</resources>

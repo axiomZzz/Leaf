@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932937477384",
+    "firebase_url": "https://leaf-a8571.firebaseio.com",
+    "project_id": "leaf-a8571",
+    "storage_bucket": "leaf-a8571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932937477384:android:03f2552e958978aae050bd",
+        "android_client_info": {
+          "package_name": "com.github.axiomzzz.leaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932937477384-miiv1bkfme0cfhj0ljs2pplomsofn406.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.axiomzzz.leaf",
+            "certificate_hash": "57b171bed9026416c195963dddc539c47e3a6dcf"
+          }
+        },
+        {
+          "client_id": "932937477384-5fhhdnruep68hcf7kopb6vef8admftv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99PN-5tnyfP7W054G6Se5Udih1miZNms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932937477384-5fhhdnruep68hcf7kopb6vef8admftv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
